@@ -108,8 +108,6 @@ config = {
 }
 ```
 
-4.目前只支持微信小程序，默认支持 .wxss、.json、.js、.wxml、.wxs 5 种文件格式。
-
 ### 效果展示
 
 [Demo 工程](https://github.com/NervJS/taro/tree/feat/webpack5/examples/mini-split-chunks-plugin)
